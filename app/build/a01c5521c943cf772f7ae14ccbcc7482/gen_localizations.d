@@ -1,0 +1,1 @@
+ /Users/sachatesson/Desktop/tesson_petit_projet/app/lib/l10n/app_localizations_fr.dart /Users/sachatesson/Desktop/tesson_petit_projet/app/lib/l10n/app_localizations.dart:  /Users/sachatesson/Desktop/tesson_petit_projet/app/l10n.yaml /Users/sachatesson/Desktop/tesson_petit_projet/app/lib/l10n/app_fr.arb
